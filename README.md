@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on ...
   I'm interested in practically any data science group project out there but especially those that relate to my hobbies (film and sport).
   
-  My goal with team exercises is to simply build my experience further in DevOps, using GitHub, and functioning in a team.
+  My goal with team exercises is to simply build my experience further in ML Operations, using GitHub, and functioning in a team.
   
 - 📫 How to reach me ...
    You can reach me at these links!
